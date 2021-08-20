@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Project2\Project2\main.cpp(7,23): error C2664: 'Student::Student(Student &&)': cannot convert argument 2 from 'const char [6]' to 'char []'
+C:\Users\User\source\repos\Project2\Project2\main.cpp(7,15): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\User\source\repos\Project2\Project2\Student.h(14,2): message : see declaration of 'Student::Student'
+  Student.cpp
+  Generating Code...
